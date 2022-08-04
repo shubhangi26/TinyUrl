@@ -1,5 +1,5 @@
-<h1 align="center">
-  TinyURL OR URL-Shortner
+
+TinyURL OR URL-Shortner
 Custom URL shortener like goo.gl built using Nodejs ,ExpressJs and Mongodb
 
 ## Technologies
