@@ -6,13 +6,13 @@ Custom URL shortener like goo.gl built using Nodejs ,ExpressJs and Mongodb
 
 - ### Back end
 
-  - [Express](https://expressjs.com/)- Nodejs framwork for building the REST Apis
-  - [Mongodb](http://mongodb.com/)- Document oriented NoSQL database
-  - [Mongoose](https://http://mongoosejs.com)- MongoDB object modeling tool
-  - [Valid-url](https://github.com/ogt/valid-url)- URI validation functions
-  - [Nginx](https://www.nginx.com)- Nginx is event-based and asynchronous web server.
+  - [Express]- Nodejs framwork for building the REST Apis
+  - [Mongodb]- Document oriented NoSQL database
+  - [Mongoose]- MongoDB object modeling tool
+  - [Valid-url]- URI validation functions
+  - [Nginx]- Nginx is event-based and asynchronous web server.
 
 - ### Front end
 
-  - [React](https://reactjs.org/) - JavaScript library for building user interfaces.
+  - [React] - JavaScript library for building user interfaces.
   
